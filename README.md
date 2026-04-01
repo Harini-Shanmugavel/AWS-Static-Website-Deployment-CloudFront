@@ -41,7 +41,8 @@ Secure HTTPS delivery using SSL
 
 ## Output
 
-The static website is accessible using the CloudFront distribution URL.
+The static website is accessible using the CloudFront distribution URL.<img width="1919" height="1064" alt="image" src="https://github.com/user-attachments/assets/b40adc66-6076-4be1-99be-f72a92056a7c" />
+
 
 ## Learning Outcomes
 
